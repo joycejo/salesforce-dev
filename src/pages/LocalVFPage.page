@@ -2,6 +2,5 @@
 <!-- Begin Default Content REMOVE THIS -->
 <h1>Congratulations</h1>
 This is your new Page
-Its easiest to make changes in VF pages like this to test document changes.
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
